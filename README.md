@@ -16,4 +16,7 @@ Menu do aplicativo
 ![Captura de tela 2024-06-13 191753](https://github.com/Cauavini03/INFORM-TICA/assets/162647059/5cad0c7e-e3cc-48e9-8fe5-9d3f4af0722c)
 
 # POWER BI
-> Apresentação de dados abertos sobre
+> Apresentação de dados abertos sobre empresas no estado de São Paulo
+
+![Captura de tela 2024-06-13 192612](https://github.com/Cauavini03/INFORM-TICA/assets/162647059/636a97cc-7fa5-4b62-b020-3b4281b12a31)
+
